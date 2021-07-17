@@ -67,7 +67,7 @@ h1{
     cursor: pointer;
     background-color: hsl(0, 0%, 95%);
     font-size: 15px;
-    
+    outline:none;
     font-family: 'Lexend Deca', sans-serif;
 }
 .btn1{
